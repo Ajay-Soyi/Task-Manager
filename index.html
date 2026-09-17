@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Task Manager</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body class="light">
+    <main>
+      <header>
+        <h1>Task Manager</h1>
+        <button id="theme" data-theme="light">Dark</button>
+      </header>
+
+      <form>
+        <label for="task">Task: </label>
+        <input
+          type="text"
+          id="task"
+          placeholder="Enter your task..."
+          value="Default"
+        />
+        <select name="category" id="category">
+          <option value="study" selected>Study</option>
+          <option value="work">Work</option>
+        </select>
+        <button type="submit">Add Task</button>
+      </form>
+
+      <div class="tasks">
+        <!-- <div class="task-card">
+          <p>Task</p>
+          <small>category</small>
+          <div class="buttons">
+            <button class="edit">Edit</button>
+            <button class="complete">Complete</button>
+            <button class="delete">Delete</button>
+          </div>
+        </div> -->
+      </div>
+
+      <div class="edit-form">
+        <p id="cross">x</p>
+        <label for="edit-task">Task: </label>
+        <input
+          type="text"
+          id="edit-task"
+          placeholder="Enter your task..."
+          value="Default"
+        />
+        <select name="category" id="category-task">
+          <option value="study" selected>Study</option>
+          <option value="work">Work</option>
+        </select>
+        <button id="update">Update Task</button>
+      </div>
+    </main>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
