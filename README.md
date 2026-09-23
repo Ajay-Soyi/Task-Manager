@@ -25,7 +25,7 @@ The project focuses on dynamically creating and managing tasks, handling user in
 
 ## 🔗 Links
 
-[Live Demo](#) • [Repository](https://github.com/Ajay-Soyi/Task-Manager)
+[Live Demo](https://ajay-soyi.github.io/Task-Manager/) • [Repository](https://github.com/Ajay-Soyi/Task-Manager)
 
 ## 📂 Project Structure
 
