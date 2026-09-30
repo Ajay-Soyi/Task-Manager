@@ -28,11 +28,11 @@ A responsive task management web application built with **HTML, CSS, and Vanilla
 
 ### Light Mode
 
-![Task Manager - Light Mode](./screenshots/task-manager.png)
+![Task Manager - Light Mode](./screenshot/task-manager.png)
 
 ### Dark Mode
 
-![Task Manager - Dark Mode](./screenshots/dark-mode.png)
+![Task Manager - Dark Mode](./screenshot/dark-mode.png)
 
 
 ## 📂 Project Structure
