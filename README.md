@@ -1,31 +1,39 @@
 # Task Manager
 
-A simple interactive task manager built with **HTML, CSS, and Vanilla JavaScript** as part of my JavaScript and DOM practice at Sheryians Coding School.
+A responsive task management web application built with **HTML, CSS, and Vanilla JavaScript**.
 
-The project focuses on dynamically creating and managing tasks, handling user interactions, event delegation, custom data attributes, and theme switching.
+🔗 **[Live Demo](https://ajay-soyi.github.io/Task-Manager/)**
 
-## 🚀 Features
+## ✨ Features
 
-* Add tasks with a title and category
-* Edit existing tasks
+* Add, edit, and delete tasks
 * Mark tasks as completed
-* Delete tasks
-* Dynamically create task cards using JavaScript
-* Light and Dark mode
-* Event delegation for task interactions
-* Custom `data-*` attributes for storing task information
-* No frameworks or external JavaScript libraries
+* Filter and manage tasks
+* Dynamic DOM manipulation
+* Event delegation for task actions
+* Light / dark theme switching
+* Responsive interface
 
-## 🛠️ Built With
+## 🛠️ Technologies
 
 * HTML5
 * CSS3
-* Vanilla JavaScript
-* DOM APIs
+* JavaScript
+* DOM Manipulation
+* Event Delegation
+* `data-*` Attributes
+* Local Storage
 
-## 🔗 Links
+## 📸 Screenshots
 
-[Live Demo](https://ajay-soyi.github.io/Task-Manager/) • [Repository](https://github.com/Ajay-Soyi/Task-Manager)
+### Light Mode
+
+![Task Manager - Light Mode](./screenshots/task-manager.png)
+
+### Dark Mode
+
+![Task Manager - Dark Mode](./screenshots/dark-mode.png)
+
 
 ## 📂 Project Structure
 
