@@ -100,6 +100,13 @@ The assignment helped me practice concepts including:
 * Event bubbling and capturing
 * Event delegation
 
+## 🚀 Future Improvements
+
+* Add task persistence using a backend/database
+* Add user authentication
+* Improve task filtering and sorting
+* Add drag-and-drop task management
+
 ## 👨‍💻 Author
 
 **Ajay Soyi**
